@@ -21,15 +21,15 @@ const dataabout = {
     aboutme: "Hey, I'm Ayush Singh, a pre-final year Electronics and Communication Engineering student at BITS Pilani. My passion for Finance, Trading, Machine Learning, and Web Development fuels my drive for continuous learning and innovation. I've built a solid engineering foundation while delving into financial markets and advanced tech. My project experiences have sharpened my programming and data analysis skills. Beyond tech, I'm a bookworm who loves gaining new insights and a biking enthusiast who enjoys refreshing rides. I'm excited to bring my skills to real-world challenges, collaborate with like-minded folks, and make a meaningful impact. Let's connect and explore opportunities in Finance, Trading, Machine Learning, Web Development, and beyond!",
 };
 const worktimeline = [{
+        jobtitle: "Machine Learning Engineer Intern",
+        where: "Capital One",
+        date: "2025",
+    },
+    {
         jobtitle: "Product Analyst Intern",
         where: "Carscan",
         date: "2024",
     },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "Jamalya",
-    //     date: "2019",
-    // },
     // {
     //     jobtitle: "Designer of week",
     //     where: "ALquds",
@@ -38,11 +38,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "ML/DL",
         value: 90,
     },
     {
-        name: "Finance",
+        name: "C++",
         value: 85,
     },
     {
@@ -54,7 +54,7 @@ const skills = [{
         value: 60,
     },
     {
-        name: "C++",
+        name: "Java",
         value: 60,
     },
 ];
